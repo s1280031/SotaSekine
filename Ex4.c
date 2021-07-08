@@ -29,8 +29,6 @@ int main()
   
   if(n>=7) printf("%s won!\n",name);
   else printf("%s lost!\n",name);
-
-  printf("END\n");
   
   return 0;
 }
